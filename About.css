@@ -145,7 +145,7 @@
                 border-radius: 12px;
                 position: absolute;
                 top: 49px;
-                right: 300px;
+                right: 150px;
                 display: inline-block;
                 }
         
@@ -331,7 +331,7 @@
 }
 
 .lang {
-    grid-area: 12/2/26/10;
+    grid-area: 1/2/26/10;
     z-index: 2;
 }
 
@@ -676,7 +676,7 @@
 
 @media (min-width: 768px) {
     .NYU {
-        grid-area: 39/12/56/26;
+        grid-area: 38/12/56/26;
         z-index: 10;
     }
 

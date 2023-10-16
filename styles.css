@@ -327,7 +327,7 @@ position: absolute;
   
 
 #background3 {
-    background-image: url("Photos/Backround/Turkey-124.jpg"); 
+    background-image: url("Photos/Backround/Turkey-910.jpg"); 
     background-size: fit; 
    
 
@@ -348,7 +348,7 @@ position: absolute;
 
 
 #page-container {
-   position: relative;
+   position: absolute;
    min-height: 100%;
  }
  
